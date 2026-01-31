@@ -1,0 +1,36 @@
+## Build outputs
+bin/
+obj/
+
+## Rider / VS Code
+.vscode/
+.idea/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## EF Core
+*.db
+*.db-shm
+*.db-wal
+
+## Secrets
+appsettings.Development.json
+secrets.json
+
+## Test results
+TestResults/
+
+## Coverage
+coverage/
